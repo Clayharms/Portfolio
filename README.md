@@ -2,9 +2,9 @@
 
 ## Overview
 
-This portfolio contains several data projects that demonstrate my skills and experience as a data analyst. The projects showcase my ability to query data using SQL, analyze data in Excel, and create visualizations in Tableau.
+This portfolio contains data projects that demonstrate my skills and experience as a data analyst. The projects showcase my ability to query data using SQL, analyze data in Excel, and create visualizations in Tableau.
 
-## Project Details
+## "BikeStores" Project Details
 
 ### BikeStores Data Analysis
 
@@ -17,6 +17,10 @@ This file contains the SQL query I used to extract data from the BikeStores data
 ### BikeStores.xlsx
 
 This file contains the Excel data that was extracted from the BikeStores database using SQL for the BikeStores Data Analysis project. You can view the file in the [` BikeStores.xlsx `](https://github.com/Clayharms/Portfolio/blob/main/BikeStores.xlsx) file.
+
+### Covid-19 Tableau Dashboard
+
+For this project, I took COVID-19 data from an Excel spreadsheet and created a dashboard called "Global Vaccine Tracker" in Tableau. The dashboard looks at certain KPIs like "people partially vaccinated", "fully vaccinated", and "vaccinations over GDP". You can view the dashboard in the [`Covid19 Tableau link.html`](https://github.com/Clayharms/Portfolio/blob/main/Covid19%20Tableau%20link.html) file.
 
 ## Conclusion
 

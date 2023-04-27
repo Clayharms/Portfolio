@@ -40,6 +40,8 @@ My last project "SimpleCycles.xlsx" was another bicycle-related Excel project wh
 * Intermediate SQL
 
 #### Excel
+*Spreadsheet Fundamentals Track Completed
+*Intermediate Spreadsheets Track Completed
 * Data Visualization in Spreadsheets
 * Pivot Tables in Spreadsheets
 * Analyzing Data in Spreadsheets

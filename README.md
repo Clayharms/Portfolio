@@ -1,7 +1,3 @@
-
-
-Here is an updated version of your README file with the new section and clickable links:
-
 # Portfolio
 
 Welcome to my portfolio! Here you will find some of the projects I have worked on as a data analyst.

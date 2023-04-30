@@ -27,22 +27,22 @@ My last project "SimpleCycles.xlsx" was another bicycle-related Excel project wh
 * Google Data Analytics Specialization (ID: 8JUY83TPTD52)
 * codewithmosh.com "Complete SQL Mastery"
 
-### DataCamp
-#### SQL
+# DataCamp
+## SQL
 * Introduction to SQL
 * Data Manipulation in SQL
 * Joining Data in SQL
 * Intermediate SQL
-#### Excel
+## Excel
 ### Spreadsheet Fundamentals Track Completed
 ### Intermediate Spreadsheets Track Completed
-## Topics include:
+#### Topics include:
 * Data Visualization in Spreadsheets
 * Pivot Tables in Spreadsheets
 * Analyzing Data in Spreadsheets
 * Intermediate Spreadsheets
 
-#### What's next?
+### What's next?
 
 ### Python
 

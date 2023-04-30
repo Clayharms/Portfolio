@@ -28,13 +28,11 @@ My last project "SimpleCycles.xlsx" was another bicycle-related Excel project wh
 * codewithmosh.com "Complete SQL Mastery"
 
 ### DataCamp
-
 #### SQL
 * Introduction to SQL
 * Data Manipulation in SQL
 * Joining Data in SQL
 * Intermediate SQL
-
 #### Excel
 ### Spreadsheet Fundamentals Track Completed
 ### Intermediate Spreadsheets Track Completed

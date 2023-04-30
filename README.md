@@ -51,3 +51,7 @@ My last project "SimpleCycles.xlsx" was another bicycle-related Excel project wh
 
 * Currently working on completing a course on Python from DataCamp as well as with codewithmosh.com
 * Expected completion based on daily average study time is end of May 2023
+
+### SAS
+
+* Once Python Certifications are complete, I will then work on completing a SAS Statistical Business Analyst Professional Certificate

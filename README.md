@@ -22,32 +22,7 @@ My last project "SimpleCycles.xlsx" was another bicycle-related Excel project wh
 
 * [SimpleCycles.xlsx](https://github.com/Clayharms/Portfolio/blob/main/SimpleCycles.xlsx)
 
-### Certifications
+# Certifications
 
 * Google Data Analytics Specialization (ID: 8JUY83TPTD52)
 * codewithmosh.com "Complete SQL Mastery"
-
-# DataCamp
-## SQL
-* Introduction to SQL
-* Data Manipulation in SQL
-* Joining Data in SQL
-* Intermediate SQL
-## Excel
-### Spreadsheet Fundamentals Track Completed
-### Intermediate Spreadsheets Track Completed
-#### Topics include:
-* Data Visualization in Spreadsheets
-* Pivot Tables in Spreadsheets
-* Analyzing Data in Spreadsheets
-
-### What's next?
-
-### Python
-
-* Currently working on completing a course on Python from DataCamp as well as with codewithmosh.com
-* Expected completion based on daily average study time is end of May 2023
-
-### SAS
-
-* Once Python Certifications are complete, I will then work on completing a SAS Statistical Business Analyst Professional Certificate
